@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0D31D3412624D8D8002FD168 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D31D3402624D8D8002FD168 /* icon.png */; };
 		0D81E8F52624B9A20084A24C /* LiveView1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0D81E8F42624B9A20084A24C /* LiveView1.sks */; };
 		0D81E8FB2624B9F60084A24C /* LiveView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81E8FA2624B9F60084A24C /* LiveView1.swift */; };
 		0D81E9012624BAED0084A24C /* Main1.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0D81E9002624BAED0084A24C /* Main1.sks */; };
@@ -20,6 +19,7 @@
 		0D81E9352624CA3F0084A24C /* LiveView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81E9342624CA3F0084A24C /* LiveView3.swift */; };
 		0D81E93B2624CA5C0084A24C /* Main3.sks in Resources */ = {isa = PBXBuildFile; fileRef = 0D81E93A2624CA5C0084A24C /* Main3.sks */; };
 		0D81E9412624CAF40084A24C /* Main3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D81E9402624CAF40084A24C /* Main3.swift */; };
+		0DB368342624E43B00208A60 /* bookicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0DB368332624E43B00208A60 /* bookicon.png */; };
 		5E086DCA2051DDAE004D8D25 /* LiveView.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E086DCC2051DDAE004D8D25 /* LiveView.storyboard */; };
 		5E086DD32051E3A3004D8D25 /* Manifest.plist in Copy Book Contents */ = {isa = PBXBuildFile; fileRef = 5E086DCF2051DF0F004D8D25 /* Manifest.plist */; };
 		5E3196F32061DEA40077BBD7 /* LiveViewSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E3196F22061DEA40077BBD7 /* LiveViewSupport.swift */; };
@@ -145,7 +145,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0D31D3402624D8D8002FD168 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../../../../Images/icon.png; sourceTree = "<group>"; };
 		0D81E8F42624B9A20084A24C /* LiveView1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = LiveView1.sks; sourceTree = "<group>"; };
 		0D81E8FA2624B9F60084A24C /* LiveView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveView1.swift; sourceTree = "<group>"; };
 		0D81E9002624BAED0084A24C /* Main1.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Main1.sks; sourceTree = "<group>"; };
@@ -158,6 +157,7 @@
 		0D81E9342624CA3F0084A24C /* LiveView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveView3.swift; sourceTree = "<group>"; };
 		0D81E93A2624CA5C0084A24C /* Main3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Main3.sks; sourceTree = "<group>"; };
 		0D81E9402624CAF40084A24C /* Main3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main3.swift; sourceTree = "<group>"; };
+		0DB368332624E43B00208A60 /* bookicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookicon.png; path = ../../../../../Desktop/Images/bookicon.png; sourceTree = "<group>"; };
 		5E086DC02051C5A7004D8D25 /* DudaTemplate.playgroundbook */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DudaTemplate.playgroundbook; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BookOverridingBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5E086DCD2051DDB8004D8D25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LiveView.storyboard; sourceTree = "<group>"; };
@@ -408,7 +408,7 @@
 		5EF2F9792054B64800191409 /* PrivateResources */ = {
 			isa = PBXGroup;
 			children = (
-				0D31D3402624D8D8002FD168 /* icon.png */,
+				0DB368332624E43B00208A60 /* bookicon.png */,
 				5EF2F97E2054B6E400191409 /* ManifestPlist.strings */,
 				5E086DCC2051DDAE004D8D25 /* LiveView.storyboard */,
 				5E551EC42371FC3F00784365 /* Assets.xcassets */,
@@ -588,7 +588,7 @@
 				0D81E9012624BAED0084A24C /* Main1.sks in Resources */,
 				0D81E90D2624BFDA0084A24C /* LiveView2.sks in Resources */,
 				0D81E9192624C02C0084A24C /* Main2.sks in Resources */,
-				0D31D3412624D8D8002FD168 /* icon.png in Resources */,
+				0DB368342624E43B00208A60 /* bookicon.png in Resources */,
 				5E551EC52371FC3F00784365 /* Assets.xcassets in Resources */,
 				0D81E93B2624CA5C0084A24C /* Main3.sks in Resources */,
 				5E086DCA2051DDAE004D8D25 /* LiveView.storyboard in Resources */,
