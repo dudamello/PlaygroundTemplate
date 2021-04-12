@@ -157,7 +157,7 @@
 		0D81E9342624CA3F0084A24C /* LiveView3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveView3.swift; sourceTree = "<group>"; };
 		0D81E93A2624CA5C0084A24C /* Main3.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Main3.sks; sourceTree = "<group>"; };
 		0D81E9402624CAF40084A24C /* Main3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main3.swift; sourceTree = "<group>"; };
-		0DB368332624E43B00208A60 /* bookicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookicon.png; path = ../../../../../Desktop/Images/bookicon.png; sourceTree = "<group>"; };
+		0DB368332624E43B00208A60 /* bookicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bookicon.png; path = /Users/eduardamello/Documents/PlaygroundTemplate/Template/PlaygroundBook/PrivateResources/../../../../../Desktop/Images/bookicon.png; sourceTree = "<absolute>"; };
 		5E086DC02051C5A7004D8D25 /* DudaTemplate.playgroundbook */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DudaTemplate.playgroundbook; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E086DC72051DD03004D8D25 /* BookOverridingBuildSettings.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = BookOverridingBuildSettings.xcconfig; sourceTree = "<group>"; };
 		5E086DCD2051DDB8004D8D25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LiveView.storyboard; sourceTree = "<group>"; };
